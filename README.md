@@ -145,7 +145,7 @@ print(f'Number of Classes: {len(classLabels)}')
 img = cv2.imread('thiyagu.jpg')
 plt.imshow(cv2.cvtColor(img, cv2.COLOR_BGR2RGB))  # Display original image
 ```
-![image](https://github.com/user-attachments/assets/c67e5027-5b11-4ea1-8adb-efa1d68b7286)
+![my](https://github.com/user-attachments/assets/76a75a22-840b-428d-8d71-a135dd07f212)
 
 
 ```python
