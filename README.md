@@ -138,7 +138,6 @@ print(classLabels)
 print(f'Number of Classes: {len(classLabels)}')
 ```
 
-![image](https://github.com/user-attachments/assets/8cdceb8b-a67a-4495-887c-8c216f7e42f4)
 
 ```python
 
@@ -181,7 +180,6 @@ plt.axis('off')
 plt.title('Detected Objects')
 plt.show()
 ```
-![image](https://github.com/user-attachments/assets/b538b6d0-7e7c-49d6-91cb-19f3fbc48dc5)
 
 
 
